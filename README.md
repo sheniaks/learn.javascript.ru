@@ -1,1 +1,1 @@
-# learnJS
+# learn.javascript.ru
