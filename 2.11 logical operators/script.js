@@ -17,7 +17,7 @@
 // if (-1 && 0) alert( 'second' );
 // if (null || -1 && 1) alert( 'third' );
 
-let who = prompt("Who is here ?");
+let who = prompt("Who is there ?");
 if (who == "admin") {
   let password = prompt("Password ?");
   if (password == "boss") {
